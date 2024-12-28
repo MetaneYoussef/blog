@@ -5,63 +5,93 @@ date: 2024-12-23 23:59
 icon: fas fa-info-circle
 order: 4
 ---
+# 🌟 **À Propos de Moi**
 
-# 🌟 À Propos de Moi  
-
-Bienvenue ! Je suis **Youcef El Khodr Metane**, un étudiant en Master 2 de Cybersécurité passionné par la sécurité des systèmes et des réseaux. Actuellement à la recherche d’un **stage de fin d'études** pour l'année 2024/2025, je suis prêt à relever de nouveaux défis ! 🚀  
-
----
-
-## 🕵️‍♂️ Mon Parcours  
-- 🎓 **Master** en Sécurité des contenus, réseaux, télécommunications et systèmes — Université Paris-Saclay.  
-- 🎓 **Master 1** en Sécurité des Systèmes Informatiques - Université de la science et la technologie Houari Boumediene 
-- 🎓 **Licence** en Informatique Générale — USTHB.  
-- 🛡️ Expériences significatives dans la sécurité réseau, cryptographie, et recherche en cybersécurité.  
-- 🛠️ Passionné de **CTF** et de résolutions de défis techniques sur des plateformes comme TryHackMe.
+### *"La sécurité n'est pas un produit, mais un processus."* — Bruce Schneier
 
 ---
 
-## 🚀 Mes Compétences  
-### 🔐 Cybersécurité  
-- **Pentest** : Nmap, Burp Suite, Metasploit, Hydra.  
-- **Cryptographie** : RSA, Ascon, et cryptanalyse via Deep Learning.  
-- **Sécurité réseau** : Cisco, OpenVPN, Wireshark.
+## 👋 Salut ! Je suis **Youcef El Khodr Metane**
 
-### 💻 Développement  
-- Langages : Java, Python, JavaScript, C, SQL.  
-- Frameworks : React, Node.js, Express.js.  
-- Outils : Docker, GitHub Actions, MongoDB.
+Un explorateur passionné de la **cybersécurité**, expert en **pentesting**, en cryptographie et en développement.  
+Je suis actuellement à la recherche d’un **stage de fin d’études** pour 2024/2025.
 
-### 🌐 Projets Clés  
-- **Ransomware Résistant** : Développement d'un ransomware avec un chiffrement hybride performant (RSA, Ascon).  
-- **Détection de Masques** : IA pour détecter les masques avec CNN, SSD et YOLOv5.  
-- **What You Watched** : Site de recommandations inspiré d'IMDB avec une stack MERN.
+🎓 **Statut** : Étudiant en Master 2 à l’Université Paris-Saclay  
 
 ---
 
-## 🏆 Distinctions et Certifications  
+## 🌐 **Mon Parcours en Cybersécurité**
+
+### 🕵️‍♂️ **Expériences Professionnelles**
+- **Développeur Java @ DIGIZED** *(2024 - présent)*  
+  - Mise en place d’un pipeline CI/CD avec **GitHub Actions** et **Docker**.  
+  - Sécurisation et modernisation de mécanismes de licensing.  
+  - **Compétences :** Java, Maven, Docker, CI/CD.
+
+- **Stagiaire Sécurité Réseau @ BADR Banque** *(2022)*  
+  - Conception et déploiement d’un réseau local (LAN) pour 40 utilisateurs.  
+  - Intégration du LAN au réseau national de l’entreprise (7 800 utilisateurs).  
+  - **Compétences :** Sécurité Linux, Architecture réseau, Audit interne.
+
+- **Recherche en Cybersécurité @ USTHB** *(2022)*  
+  - Étude et implémentation de cryptanalyse via **Deep Learning**.  
+  - **Compétences :** Cryptographie, Sécurité des infrastructures critiques.
+
+---
+
+## 🏆 **Projets Marquants**
+
+### 🛡️ **Ransomware Résistant**
+- **Description :** Développement d’un ransomware performant utilisant un chiffrement hybride **RSA** et **Ascon**.  
+- **Compétences :** Cryptographie, Pentest Windows, Sécurité OS.
+
+### 🤖 **Détection de Masques**
+- **Description :** Système basé sur IA pour détecter les masques faciaux à l’aide de modèles **CNN**, **SSD** et **YOLOv5**.  
+- **Compétences :** PyTorch, Machine Learning, Vision par ordinateur.
+
+### 🎬 **What You Watched**
+- **Description :** Plateforme MERN inspirée d’IMDB avec recommandations personnalisées pour les utilisateurs.  
+- **Compétences :** React, Node.js, MongoDB, Sécurité Web.
+
+---
+
+## 🛠️ **Mes Compétences**
+
+| **Domaine**               | **Compétences**                      | **Outils**                    |
+| ------------------------- | ------------------------------------ | ----------------------------- |
+| **Cybersécurité**         | Pentest, Cryptographie               | Nmap, Metasploit, Burp Suite  |
+| **DevOps**                | CI/CD, Gestion de conteneurs         | Docker, GitHub Actions        |
+| **Développement Web**     | Full Stack, Authentification         | React, Node.js, MongoDB       |
+| **IA & Machine Learning** | Deep Learning, Vision par Ordinateur | TensorFlow, OpenCV2, PyTorch  |
+| **Design**                | Création graphique                   | Figma, Photoshop, Illustrator |
+
+---
+
+## 🏅 **Distinctions et Certifications**
+
 - **Certifications** : Huawei ICT, OPSWAT Academy (OFSA, DTSA, ICIP).  
-- **Distinctions** : Finaliste Hult Prize USTHB, Golden Badge en Python (Hackerrank).  
+- **Distinctions** :  
+  - Finaliste du **Hult Prize USTHB**.  
+  - **Golden Badge Python** sur HackerRank.  
 
 ---
 
-## 🌱 En ce moment...  
-- 🔍 Exploration de l'IA appliquée à la sécurité.  
-- 💼 Recherche d'un stage pour mettre à profit mes compétences en cybersécurité.  
+## 🎯 **Pourquoi Moi ?**
+
+- **Polyvalent** : Expertise en cybersécurité, IA, et DevOps.  
+- **Curieux** : Toujours prêt à apprendre et explorer.  
+- **Leader** : Expérience en gestion d’équipe et en coordination de projets.  
 
 ---
 
-## 💡 Fun Facts  
-- 🌍 Trilingue : Français, Anglais, Arabe.  
-- 🎨 Designer amateur : Figma, Photoshop, Illustrator.  
-- 🕵️ Amateur de défis CTF sur TryHackMe : [Profil TryHackMe](https://tryhackme.com/p/MahouMaster).  
+## 📬 **Contactez-moi**
+
+📧 **Email** : [mtn.youssef.kh@gmail.com](mailto:mtn.youssef.kh@gmail.com)  
+🔗 **LinkedIn** : [Profil LinkedIn](https://www.linkedin.com/in/youcef-el-khodr-metane-69774a1a2/)  
+🐙 **GitHub** : [MetaneYoussef](https://github.com/MetaneYoussef)  
+🎮 **TryHackMe** : [Profil TryHackMe](https://tryhackme.com/p/MahouMaster)  
+🌐 **Portfolio** : [metaneyoussef.github.io](https://metaneyoussef.github.io/)
 
 ---
 
-## 📬 Contactez-moi  
-- **Email** : [mtn.youssef.kh@gmail.com](mailto:mtn.youssef.kh@gmail.com)  
-- **LinkedIn** : [Youcef El Khodr Metane](https://www.linkedin.com/in/youcef-el-khodr-metane-69774a1a2/)  
-- **GitHub** : [MetaneYoussef](https://github.com/MetaneYoussef)  
-- **Site Web** : [Portfolio](https://metaneyoussef.github.io/)  
-
-*"La sécurité n'est pas un produit, mais un processus."* — Bruce Schneier
+💡 **Fun Fact :** Quand je ne suis pas en train de sécuriser des systèmes, je suis probablement en train de concevoir des visuels ou de résoudre des énigmes CTF. 🕵️‍♂️
