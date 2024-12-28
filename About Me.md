@@ -1,8 +1,8 @@
 ---
 share: true
 title: About Me
-date: 2023-11-05T01:48:00
-filename: _posts/2023-11-05-About-Me
+date: 2023-10-15 02:00:00 -0400
+filename: _posts/About-Me
 ---
 
 uploading this as a start
