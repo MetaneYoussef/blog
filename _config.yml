@@ -14,16 +14,16 @@ timezone: Europe/Paris
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Cyberlogs # the main title
+title: YoucefLogs.sh # the main title
 
-tagline: Documenting my CyberSecurity Learning Path # it will display as the subtitle
+tagline: Documenting my CyberSecurity Learning Journey # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Youcef's CyberSecuity learning logs
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://metaneyoussef.github.io/blog3"
+url: "https://metaneyoussef.github.io/blog"
 
 github:
   username: MetaneYoussef # change to your GitHub username
