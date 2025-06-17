@@ -15,7 +15,7 @@ media_subpath: /Ressources/
 
 ### Introduction to Port Forwarding
 
-![Portfwd](eb63570eb9f31d26ebd8207ec08058bc.svg)
+![Portfwd](eb63570eb9f31d26ebd8207ec08058bc.svg){: w="128" }
 
 ### Firewall 
 Works on the layers 3 and 4
@@ -36,4 +36,4 @@ Stateless: inspect individual packets
 
 * PPP:  This technology is used by PPTP (explained below) to allow for authentication and provide encryption of data. VPNs work by using a private key and public certificate (similar to **SSH**). A private key & certificate must match for you to connect.This technology is not capable of leaving a network by itself (non-routable).
 * PPTP: The **P**oint-to-**P**oint **T**unneling **P**rotocol (**PPTP**) is the technology that allows the data from PPP to travel and leave a network. PPTP is very easy to set up and is supported by most devices. It is, however, weakly encrypted in comparison to alternatives.
-* IPSec: Internet Protocol Security (IPsec) encrypts data using the existing **I**nternet **P**rotocol (**IP**) framework.IPSec is difficult to set up in comparison to alternatives; however, if successful, it boasts strong encryption and is also supported on many devices.|
+* IPSec: Internet Protocol Security (IPsec) encrypts data using the existing **I**nternet **P**rotocol (**IP**) framework. IPSec is difficult to set up in comparison to alternatives; however, if successful, it boasts strong encryption and is also supported on many devices.

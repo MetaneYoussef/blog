@@ -40,4 +40,6 @@ UDP is **stateless**. No acknowledgement is sent during a connection.
 
 ## Ports
 These ports enforce what can park and where — if it isn't compatible, it cannot park here. Networking devices also use ports to enforce strict rules when communicating with one another. When a connection has been established (recalling from the OSI model's room), any data sent or received by a device will be sent through these ports. In computing, ports are a numerical value between **0** and **65535** (65,535).
+
+
 Resource Material : https://www.vmaxx.net/techinfo/ports.htm
