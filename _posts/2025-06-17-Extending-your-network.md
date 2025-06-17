@@ -8,6 +8,7 @@ tags:
 description: Introduction to homelab seyup from tryhackme.
 toc: true
 share: true
+media_subpath: ../Ressources/
 ---
 
 # Extending Your Network
