@@ -7,6 +7,7 @@ tags:
 description: OSI model continuation.
 toc: true
 share: true
+media_subpath: ../Ressources/
 ---
 Status : #In_Progress 
 Tags : [Networking](Networking.md),[basics](basics.md)
