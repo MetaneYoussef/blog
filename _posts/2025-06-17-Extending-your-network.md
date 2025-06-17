@@ -8,14 +8,14 @@ tags:
 description: Introduction to homelab seyup from tryhackme.
 toc: true
 share: true
-media_subpath: ../Ressources/
+media_subpath: /Ressources/
 ---
 
 # Extending Your Network
 
 ### Introduction to Port Forwarding
 
-![eb63570eb9f31d26ebd8207ec08058bc.svg](eb63570eb9f31d26ebd8207ec08058bc.svg)
+![Portfwd](/Ressources/eb63570eb9f31d26ebd8207ec08058bc.svg)
 
 ### Firewall 
 Works on the layers 3 and 4

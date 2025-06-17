@@ -2,12 +2,13 @@
 title: Defensive Security
 date: 2025-06-17 19:49
 tags:
-  - Blue team
+  - Blue
+  - team
   - basics
 description: intro to defensive teams organisation.
 toc: true
 share: true
-media_subpath: ../Ressources/
+media_subpath: /Ressources/
 ---
 # Defensive Security
 
