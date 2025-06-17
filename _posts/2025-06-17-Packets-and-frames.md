@@ -7,7 +7,7 @@ tags:
 description: OSI model continuation.
 toc: true
 share: true
-media_subpath: ../Ressources/
+media_subpath: /Ressources/
 ---
 Status : #In_Progress 
 Tags : [Networking](Networking.md),[basics](basics.md)
@@ -26,9 +26,9 @@ Only 4 layers :
 - Network Interface
 
 ### TCP 3 Way Handshake
-![TCP-three-way-handshake-process-1-1-2048x695.png](TCP-three-way-handshake-process-1-1-2048x695.png)
-![TCP-three-way-handshake-process-2-1024x171.png](TCP-three-way-handshake-process-2-1024x171.png)
-![TCP-three-way-handshake-process-3-1024x171.png](TCP-three-way-handshake-process-3-1024x171.png)
+![handshake 1](/Ressources/TCP-three-way-handshake-process-1-1-2048x695.png)
+![handshake 2](/Ressources/TCP-three-way-handshake-process-2-1024x171.png)
+![handshake 3](/Ressources/TCP-three-way-handshake-process-3-1024x171.png)
 
 - **DATA :** Once a connection has been established, data (such as bytes of a file) is sent via the "DATA" message.
 - **FIN :** This packet is used to Cleanly (properly) close the connection after it has been complete.
