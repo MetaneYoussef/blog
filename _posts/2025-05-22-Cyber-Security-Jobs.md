@@ -8,7 +8,7 @@ tags:
   - basics
 description: First post about cybersecurity.
 toc: true
-media_subpath: ../Ressources/
+media_subpath: /Ressources/
 share: true
 ---
 
