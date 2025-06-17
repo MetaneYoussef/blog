@@ -15,7 +15,7 @@ media_subpath: /Ressources/
 
 ### Introduction to Port Forwarding
 
-![Portfwd](/Ressources/eb63570eb9f31d26ebd8207ec08058bc.svg)
+![Portfwd](eb63570eb9f31d26ebd8207ec08058bc.svg)
 
 ### Firewall 
 Works on the layers 3 and 4
