@@ -6,7 +6,7 @@ categories:
   - generalities
 tags:
   - basics
-description: Short summary of the post.
+description: First post about cybersecurity.
 toc: true
 media_subpath: ../Ressources/
 share: true
